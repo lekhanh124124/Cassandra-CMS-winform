@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\HK7\\NoSQL\\DoAn\\QuanLyBaoHanhSanPham\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47827CA1-BF61-4459-AB86-6B564C48A8F2}|QuanLyBaoHanhSanPham.csproj|d:\\desktop\\hk7\\nosql\\doan\\quanlybaohanhsanpham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47827CA1-BF61-4459-AB86-6B564C48A8F2}|QuanLyBaoHanhSanPham.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47827CA1-BF61-4459-AB86-6B564C48A8F2}|QuanLyBaoHanhSanPham.csproj|D:\\Desktop\\HK7\\NoSQL\\DoAn\\QuanLyBaoHanhSanPham\\reportsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47827CA1-BF61-4459-AB86-6B564C48A8F2}|QuanLyBaoHanhSanPham.csproj|solutionrelative:reportsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47827CA1-BF61-4459-AB86-6B564C48A8F2}|QuanLyBaoHanhSanPham.csproj|D:\\Desktop\\HK7\\NoSQL\\DoAn\\QuanLyBaoHanhSanPham\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47827CA1-BF61-4459-AB86-6B564C48A8F2}|QuanLyBaoHanhSanPham.csproj|solutionrelative:reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47827CA1-BF61-4459-AB86-6B564C48A8F2}|QuanLyBaoHanhSanPham.csproj|D:\\Desktop\\HK7\\NoSQL\\DoAn\\QuanLyBaoHanhSanPham\\ticketsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47827CA1-BF61-4459-AB86-6B564C48A8F2}|QuanLyBaoHanhSanPham.csproj|solutionrelative:ticketsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 259,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\HK7\\NoSQL\\DoAn\\QuanLyBaoHanhSanPham\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Desktop\\HK7\\NoSQL\\DoAn\\QuanLyBaoHanhSanPham\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:31:31.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportsForm.Designer.cs",
+              "DocumentMoniker": "D:\\Desktop\\HK7\\NoSQL\\DoAn\\QuanLyBaoHanhSanPham\\ReportsForm.Designer.cs",
+              "RelativeDocumentMoniker": "ReportsForm.Designer.cs",
+              "ToolTip": "D:\\Desktop\\HK7\\NoSQL\\DoAn\\QuanLyBaoHanhSanPham\\ReportsForm.Designer.cs",
+              "RelativeToolTip": "ReportsForm.Designer.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAAwM8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:28:54.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportsForm.cs",
+              "DocumentMoniker": "D:\\Desktop\\HK7\\NoSQL\\DoAn\\QuanLyBaoHanhSanPham\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "ReportsForm.cs",
+              "ToolTip": "D:\\Desktop\\HK7\\NoSQL\\DoAn\\QuanLyBaoHanhSanPham\\ReportsForm.cs",
+              "RelativeToolTip": "ReportsForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwKoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T00:32:39.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketsForm.cs",
+              "DocumentMoniker": "D:\\Desktop\\HK7\\NoSQL\\DoAn\\QuanLyBaoHanhSanPham\\TicketsForm.cs",
+              "RelativeDocumentMoniker": "TicketsForm.cs",
+              "ToolTip": "D:\\Desktop\\HK7\\NoSQL\\DoAn\\QuanLyBaoHanhSanPham\\TicketsForm.cs",
+              "RelativeToolTip": "TicketsForm.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAnwB8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T00:20:39.121Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
